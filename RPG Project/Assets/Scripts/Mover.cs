@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.AI;
 
 public class Mover : MonoBehaviour
 {
@@ -22,7 +21,7 @@ public class Mover : MonoBehaviour
         bool hasHit = Physics.Raycast(ray, out hit);
         if (hasHit)
         {
-            GetComponent<NavMeshAgent>().destination = hit.point;
+            GetComponent<UnityEngine.AI.NavMeshAgent>().destination = hit.point;
         }
     }
 }
