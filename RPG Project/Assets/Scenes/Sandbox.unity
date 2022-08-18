@@ -680,47 +680,31 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 4055104997889930239}
   m_PrefabAsset: {fileID: 0}
---- !u!195 &318263315
-NavMeshAgent:
+--- !u!95 &318263314
+Animator:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 318263313}
   m_Enabled: 1
-  m_AgentTypeID: 0
-  m_Radius: 0.5
-  m_Speed: 12
-  m_Acceleration: 20
-  avoidancePriority: 50
-  m_AngularSpeed: 300
-  m_StoppingDistance: 0
-  m_AutoTraverseOffMeshLink: 1
-  m_AutoBraking: 1
-  m_AutoRepath: 1
-  m_Height: 2
-  m_BaseOffset: 1
-  m_WalkableMask: 4294967295
-  m_ObstacleAvoidanceType: 4
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &318263318 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5004923548226722702, guid: 31b24c69b73de1b45b2c947e0111c0b4,
     type: 3}
   m_PrefabInstance: {fileID: 4055104997889930239}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &318263320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 318263313}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21ce3fb0d212c55428137bd86593672a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 0}
 --- !u!1001 &377516437
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2330,17 +2314,17 @@ PrefabInstance:
     - target: {fileID: 5004923548226722702, guid: 31b24c69b73de1b45b2c947e0111c0b4,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.22
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5004923548226722702, guid: 31b24c69b73de1b45b2c947e0111c0b4,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5004923548226722702, guid: 31b24c69b73de1b45b2c947e0111c0b4,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.76
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5004923548226722702, guid: 31b24c69b73de1b45b2c947e0111c0b4,
         type: 3}

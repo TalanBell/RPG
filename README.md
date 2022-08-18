@@ -11,3 +11,4 @@ Following the Udemy/GameDev.tv course 'RPG Core Combat Creator' using C# and Uni
 * v012 - videos were renumbered! Intro to Raycasting. Renamed SampleScene to Sandbox.
 * v013 - Implement click-to-move
 * v014 - Create a fixed follow camera
+* v015 - Animation Blend Trees
