@@ -13,3 +13,4 @@ Following the Udemy/GameDev.tv course 'RPG Core Combat Creator' using C# and Uni
 * v014 - Create a fixed follow camera
 * v015 - Animation Blend Trees
 * v016 - Match Animation to Movement
+* v017 - Basic Movement Tweaks
