@@ -14,3 +14,4 @@ Following the Udemy/GameDev.tv course 'RPG Core Combat Creator' using C# and Uni
 * v015 - Animation Blend Trees
 * v016 - Match Animation to Movement
 * v017 - Basic Movement Tweaks
+* v018 - Project Folder Structure
