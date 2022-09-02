@@ -14,7 +14,8 @@ Following the Udemy/GameDev.tv course 'RPG Core Combat Creator' using C# and Uni
 * v015 - Animation Blend Trees
 * v016 - Match Animation to Movement
 * v017 - Basic Movement Tweaks
-* v018 - Project Folder Structure
+* v018 - Project Folder Structure - moving files to sensible folders
 * v019-022 are about 1.5 page game design document - no programming
 * v023 is introducing the Basic Combat section - no programming
-* v024 - Create Player Controller
+* v024 - Create Player Controller - refactoring
+* v025 - Namespaces to see Dependencies
