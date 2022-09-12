@@ -1,6 +1,6 @@
 # RPG
 
-Core Combat for Adventure RPG.
+### Core Combat for Adventure RPG.
 
 Following the Udemy/GameDev.tv course 'RPG Core Combat Creator' using C# and Unity. (v number is video/lecture number on Udemy course)
 ## Changes
@@ -18,4 +18,5 @@ Following the Udemy/GameDev.tv course 'RPG Core Combat Creator' using C# and Uni
 * v019-022 are about 1.5 page game design document - no programming
 * v023 is introducing the Basic Combat section - no programming
 * v024 - Create Player Controller - refactoring
-* v025 - Namespaces to see Dependencies
+* v025 - Namespaces to see Dependencies - adding Control, Movement & Core namespaces
+* v026 - Raycasting for Components
