@@ -21,3 +21,4 @@ Following the Udemy/GameDev.tv course 'RPG Core Combat Creator' using C# and Uni
 * v025 - Namespaces to see Dependencies - adding Control, Movement & Core namespaces
 * v026 - Raycasting for Components
 * v027 - Implementing Action Priority
+* v028 - Move Within Range
